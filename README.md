@@ -6,7 +6,7 @@
 ## Experiences
 
 - Research Engineer @[CryptoLab](https://www.cryptolab.co.kr) (2021.05 ~ )
-  - Homomorphic Encryption and applications on deep learning
+  - Homomorphic Encryption and applications on machine learning
 
 - Research Scientist @[Riiid](https://www.riiid.co) (2019.07 ~ 2021.05)
   - Developing AI models for knowledge tracing, session dropout prediction, exam score prediction, and item recommendation
