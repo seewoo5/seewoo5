@@ -11,7 +11,7 @@
 - Research Scientist @[Riiid](https://www.riiid.co) (2019.07 ~ 2021.05)
   - Developing AI models for knowledge tracing, session dropout prediction, exam score prediction, and item recommendation
 
-Check my [personal website](https://sites.google.com/berkeley.edu/seewoolee/home?authuser=0) for more details
+Check my [personal website](https://seewoo5.github.io/) for more details
 
 <!--
 **seewoo5/seewoo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
