@@ -1,11 +1,11 @@
 # Seewoo Lee
 
 - Mathematics Ph.D. student at UC Berkeley, working on number theory (automorphic forms and representations)
-- Currently on leave for alternative military service (from 2019 Fall to 2022 Summer)
+- On leave for alternative military service (from 2019 Fall to 2022 Summer)
 
 ## Experiences
 
-- Research Engineer @[CryptoLab](https://www.cryptolab.co.kr) (2021.05 ~ )
+- Research Engineer @[CryptoLab](https://www.cryptolab.co.kr) (2021.05 ~ 2022.07)
   - Homomorphic Encryption and applications on machine learning
 
 - Research Scientist @[Riiid](https://www.riiid.co) (2019.07 ~ 2021.05)
