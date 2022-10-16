@@ -1,7 +1,6 @@
 # Seewoo Lee
 
 - Mathematics Ph.D. student at UC Berkeley, working on number theory (automorphic forms and representations)
-- On leave for alternative military service (from 2019 Fall to 2022 Summer)
 
 ## Experiences
 
